@@ -10,6 +10,7 @@
   author   = {Li, Yanchi and Li, Dongcheng and Gong, Wenyin and Gu, Qiong},
   journal  = {IEEE Transactions on Systems, Man, and Cybernetics: Systems},
   year     = {2024},
+  doi      = {10.1109/TSMC.2024.3520526},
 }
 ```
 
